@@ -1,4 +1,4 @@
-import { IntroPanel, AboutPanel } from 'pages/Home/panels';
+import { IntroPanel } from 'pages/Home/panels';
 import styled from 'styled-components';
 
 const Home = () => {
