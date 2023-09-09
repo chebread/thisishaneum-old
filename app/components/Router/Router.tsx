@@ -11,7 +11,6 @@ import NotFoundPage from 'pages/NotFoundPage';
 import Bowser from 'bowser';
 import { useRef } from 'react';
 import ForbiddenPage from 'pages/ForbiddenPage';
-// import CustomCursor from 'components/CustomCursor';
 
 const Router = () => {
   const browser = Bowser.getParser(window.navigator.userAgent);
